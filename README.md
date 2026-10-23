@@ -11,7 +11,7 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
-Sou estudante de Ciência da Computação e atuo na área de suporte e sistemas, onde venho desenvolvendo experiência com tecnologia, análise de problemas e manutenção de aplicações.
+Sou estudante de Ciência da Computação e tenho experiência em suporte e sistemas, onde desenvolvi prática com tecnologia, análise de problemas e manutenção de aplicações.
 <br><br>
 Atualmente estou direcionando minha carreira para desenvolvimento Backend, com foco no ecossistema Java e Spring, criando APIs REST, trabalhando com bancos de dados e aplicando boas práticas de programação.
 <br><br>
@@ -74,21 +74,35 @@ Alguns projetos desenvolvidos para aplicar conhecimentos em desenvolvimento back
 
 <div align="left">
 
-🔹 <a href="https://github.com/amagalhaesdev/produtos-api-springboot">
+🔹 <a href="https://github.com/andremagalhaess/produtos-api-springboot">
 <strong>Produtos API Spring Boot</strong>
 </a>
 
 API REST desenvolvida com Java e Spring Boot para gerenciamento de produtos, utilizando persistência de dados, banco H2, JPA/Hibernate e operações CRUD.
 
 <br><br>
-🔹 <a href="https://github.com/amagalhaesdev/automacao-callbox-infra">
-<strong>Automação Callbox Infra</strong>
+🔹 <a href="https://github.com/andremagalhaess/automacao-callbox-infra">
+<strong>Automação de Pausas e Feriados (Callbox)</strong>
 </a>
 
-Projeto relacionado à automação de fluxos de trabalho, envolvendo análise e integração com API externa. Foram realizadas validações da API, identificação de inconsistências e reporte de erros para a equipe responsável, visando viabilizar a implementação da automação.
+Versão de estudo, em PHP, de uma automação de pausas e feriados para a API do Callbox: planejador que preserva a prioridade de funcionamento, prévia (dry-run) por padrão, log por plano e reversão, com 21 testes automatizados.
 
 <br><br>
-🔹 <a href="https://github.com/amagalhaesdev/controle-de-lancamento-fiap">
+🔹 <a href="https://github.com/andremagalhaess/busca-cep-js">
+<strong>Busca CEP (JavaScript)</strong>
+</a>
+
+Preenchimento automático de endereço consumindo a API ViaCEP, com JavaScript assíncrono e manipulação do DOM.
+
+<br><br>
+🔹 <a href="https://github.com/andremagalhaess/cadastro-clientes-js">
+<strong>Cadastro de Clientes (JavaScript)</strong>
+</a>
+
+CRUD de clientes por requisições HTTP a uma API mock.
+
+<br><br>
+🔹 <a href="https://github.com/andremagalhaess/controle-de-lancamento-fiap">
 <strong>Controle de Lançamento FIAP</strong>
 </a>
 
