@@ -40,10 +40,6 @@ Busco evoluir constantemente como desenvolvedor, unindo minha experiência prát
 
 <img width="19" />
 
-<img src="https://skillicons.dev/icons?i=postgres" height="28" alt="postgresql logo" />
-
-<img width="19" />
-
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="28" alt="docker logo" />
 
 <img width="19" />
